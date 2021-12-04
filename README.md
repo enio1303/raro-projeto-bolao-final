@@ -1,6 +1,6 @@
-# Raro Academy Boilerplate
+# Bolão Brasileirao
 
-Boilerplate para a construção do projeto final da turma de nodejs da Raro Academy, edição 1.
+Este projeto é o resultado dos estudos da nossa turma da Raro Academy, edição 1 de nodejs. Ele implementa a API do bolão do campeonato brasileiro, disputa tradicional da Raro, que movimenta toda a torcida dos loucos por futebol.
 
 ## Pré-requisitos
 
