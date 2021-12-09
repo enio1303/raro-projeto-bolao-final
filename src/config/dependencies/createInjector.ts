@@ -7,14 +7,18 @@ import { UserRepository } from "../../repositories/UserRepository";
 // inicializa controllers
 import "../../controllers/UserController";
 import "../../controllers/EnderecoController";
+import "../../controllers/AtualizaResultadosController";
 
 // inicializa services
 import "../../services/UserService";
 import "../../services/EnderecoService";
+import "../../services/AtualizaResultadosService";
 
 // inicializa clientes
 import "../../clients/CepClient"
 import "../../infra/http/AxiosHttpClient";
+import "../../clients/BrasileiraoClient";
+
 
 
 const createDependencyInjector = () => {
