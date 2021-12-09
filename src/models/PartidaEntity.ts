@@ -1,5 +1,5 @@
 import { Column, Entity, ManyToOne, OneToMany, PrimaryGeneratedColumn } from "typeorm";
-import { StatusAndamento } from "../../@types/enums/StatusAndamento";
+import { StatusAndamento } from "../@types/enums/StatusAndamento";
 import { Aposta } from "./ApostaEntity";
 import { Rodada } from "./RodadaEntity";
 import { Time } from "./TimeEntity";
